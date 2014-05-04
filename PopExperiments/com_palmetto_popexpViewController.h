@@ -10,4 +10,6 @@
 
 @interface com_palmetto_popexpViewController : UIViewController
 
+@property (strong, nonatomic) IBOutlet UIWebView *viewWeb;
+
 @end
